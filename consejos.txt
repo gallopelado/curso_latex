@@ -1,0 +1,3 @@
+Instalar MikTex
+pdfLaTeX+MakeIndex+BibTeX
+**Todo lo que se define antes del documento se denomina preámbulo
