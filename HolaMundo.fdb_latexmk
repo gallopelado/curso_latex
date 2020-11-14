@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1604178222 "/home/juan/Documentos/curso_latex/HolaMundo.tex" "/home/juan/Documentos/curso_latex/HolaMundo.pdf" "HolaMundo" 1604178223
+["pdflatex"] 1604178341 "/home/juan/Documentos/curso_latex/HolaMundo.tex" "/home/juan/Documentos/curso_latex/HolaMundo.pdf" "HolaMundo" 1604178341
   "/home/juan/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1604175737 10252074 74b59de49819fd51285d982e4adee98b ""
   "/home/juan/.miktex/texmfs/data/pdftex/config/pdftex.map" 1604177907 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
-  "/home/juan/Documentos/curso_latex/HolaMundo.aux" 1604178222 32 3985256e7290058c681f74d7a3565a19 ""
-  "/home/juan/Documentos/curso_latex/HolaMundo.tex" 1604178221 2214 52177268adf10e91446287679f377bfd ""
+  "/home/juan/Documentos/curso_latex/HolaMundo.aux" 1604178341 32 3985256e7290058c681f74d7a3565a19 ""
+  "/home/juan/Documentos/curso_latex/HolaMundo.tex" 1604178341 2220 bc1f3ee17b8da2918cf083d9cc4d16d3 ""
   "/usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmmi12.tfm" 1604174883 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmmi6.tfm" 1604174883 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmmi8.tfm" 1604174883 1520 eccf95517727cb11801f4f1aee3a21b4 ""
@@ -20,11 +20,11 @@
   "/usr/local/share/miktex-texmf/tex/latex/base/article.cls" 1604174915 20145 aad8c3dd3bc36e260347b84002182bc2 ""
   "/usr/local/share/miktex-texmf/tex/latex/base/size10.clo" 1604174915 8449 a72d5d4e612221b46000c3d71724e0ef ""
   "/usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def" 1604174893 23704 02c466ff883953a445c97e55638005fc ""
-  "HolaMundo.aux" 1604178222 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "HolaMundo.tex" 1604178221 2214 52177268adf10e91446287679f377bfd ""
+  "HolaMundo.aux" 1604178341 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "HolaMundo.tex" 1604178341 2220 bc1f3ee17b8da2918cf083d9cc4d16d3 ""
   (generated)
+  "/home/juan/Documentos/curso_latex/HolaMundo.log"
   "HolaMundo.log"
   "HolaMundo.aux"
   "HolaMundo.pdf"
-  "/home/juan/Documentos/curso_latex/HolaMundo.log"
   "/home/juan/Documentos/curso_latex/HolaMundo.pdf"

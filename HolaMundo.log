@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.31)  31 OCT 2020 18:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.31)  31 OCT 2020 18:05
 entering extended mode
 **/home/juan/Documentos/curso_latex/HolaMundo.tex
 (/home/juan/Documentos/curso_latex/HolaMundo.tex
@@ -50,15 +50,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/home/juan/.miktex/texmfs/data/pdftex/config/pdftex.map}] (/home/juan/Documentos/curso_latex/HolaMundo.aux) ) 
 Here is how much of TeX's memory you used:
- 410 strings out of 480238
- 7412 string characters out of 2887713
- 273929 words of memory out of 3000000
- 17038 multiletter control sequences out of 15000+200000
+ 411 strings out of 480238
+ 7420 string characters out of 2887713
+ 273935 words of memory out of 3000000
+ 17039 multiletter control sequences out of 15000+200000
  538123 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,7n,49p,903b,201s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,7n,49p,903b,202s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on /home/juan/Documentos/curso_latex/HolaMundo.pdf (1 page, 48169 bytes).
+Output written on /home/juan/Documentos/curso_latex/HolaMundo.pdf (1 page, 48394 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
